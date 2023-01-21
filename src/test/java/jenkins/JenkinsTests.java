@@ -44,8 +44,6 @@ public class JenkinsTests {
         assertEquals("2022-05-19", bookingdates.get("checkout"));
         // not working for Jenkins //
 
-        System.out.println();
-
     }
 
 }
